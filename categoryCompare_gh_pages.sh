@@ -19,4 +19,4 @@ cp ../categoryCompare/inst/doc/categoryCompare_vignette.html index.html
 
 git add .
 git commit -m "deployed to github pages"
-git push --force --quiet $FULL_REPO master:gh-pages > /dev/null 2>&1
+git push --force --quiet $FULL_REPO master:gh-pages 
